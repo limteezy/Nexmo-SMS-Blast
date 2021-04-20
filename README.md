@@ -8,8 +8,9 @@ Simple API Request based SMS blaster with the use of CSV
 4. run `npm start`
 
 ### POSTMAN upload csv
-url Local:8080/Upload
-body > form-data >key:"name" > file > upload csv file
+1. url Local:8080/Upload
+2. body > form-data 
+3. key:"name" > file > upload csv file
 ### Sample CSV
 ```
 6512341234,This is a text
