@@ -7,7 +7,7 @@ Simple API Request based SMS blaster with the use of CSV
 3. setup `.env` according to `.env.example`
 4. run `npm start`
 
-###POSTMAN upload csv
+### POSTMAN upload csv
 url Local:8080/Upload
 body > form-data >key:"name" > file > upload csv file
 ### Sample CSV
