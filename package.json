@@ -8,7 +8,7 @@
     "index.js"
   ],
   "scripts": {
-    "start": "NODE_ENV=production node src/server.js",
+    "start": "Set NODE_ENV=production && node src/server.js",
     "debug": "nodemon --inspect --exec node src/server.js"
   },
   "author": "Yee Hui Poh <yee.poh@vonage.com>",
